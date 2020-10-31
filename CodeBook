@@ -1,0 +1,9 @@
+This code book describes all of the data fields in the tidy.txt file.
+
+The type of activity that they were performing when the measurements were taken
+Walking
+Walking Upstairs
+Walking Downstairs
+Sitting
+Standing
+Laying
